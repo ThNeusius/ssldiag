@@ -36,7 +36,7 @@ This fallback does not mean that the certificate is trusted.
 Clone the repository and install it in editable mode:
 
 ```bash
-git clone https://github.com/<your-account>/ssldiag.git
+git clone https://github.com/ThNeusius/ssldiag.git
 cd ssldiag
 python -m pip install -e .
 ```
