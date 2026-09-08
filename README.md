@@ -141,6 +141,7 @@ Usage:
 
 ```text
 ssldiag.exe example.com
+```
 
 ## License
 
