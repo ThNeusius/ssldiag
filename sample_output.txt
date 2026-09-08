@@ -1,0 +1,23 @@
+============================================================
+ SSL/TLS DIAGNOSTIC TOOL
+============================================================
+[DNS] Resolving example.com...
+  OK: 93.184.216.34
+
+[TCP] Testing example.com:443...
+  Trying ('93.184.216.34', 443)...
+  OK: TCP connection established.
+
+[TLS] Strict certificate validation...
+  OK: certificate validation succeeded.
+  TLS version : TLSv1.3
+  Cipher      : TLS_AES_256_GCM_SHA384
+
+[Certificate]
+  Subject    : CN=example.com
+  Issuer     : CN=Example CA
+  Valid from : ...
+  Valid to   : ...
+  Serial     : ...
+  SAN        :
+    - example.com
